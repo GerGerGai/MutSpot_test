@@ -1,0 +1,8 @@
+feature_name	file_path	feature_type	nbins
+E094-H3K9me3	Feature_selected/new_epigenetic_features_Ch38/E094-H3K9me3.bed	0	NA
+E094-H3K27me3	Feature_selected/new_epigenetic_features_Ch38/E094-H3K27me3.bed	0	NA
+ZNF143	Feature_selected/new_epigenetic_features_Ch38/ZNF143_ovl.bed	0	NA
+APOBEC3A	Feature_selected/new_epigenetic_features_Ch38/APOBEC3A.bed	0	NA
+E094-H3K36me3	Feature_selected/new_epigenetic_features_Ch38/E094-H3K36me3.bed	0	NA
+E094-H3K4me1	Feature_selected/new_epigenetic_features_Ch38/E094-H3K4me1.bed	0	NA
+
