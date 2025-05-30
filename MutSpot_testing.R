@@ -1,5 +1,5 @@
 getwd()
-setwd("")
+setwd("/Users/gaiqj/Desktop/Singapore/MutSpot_test")
 rm(list = ls())
 
 ##install.packages("devtools")
